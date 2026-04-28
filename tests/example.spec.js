@@ -2,5 +2,5 @@
 import { test } from '@playwright/test';
 
 test('has title', async ({ page }) => {
-  await page.goto('https://www.Amazon.com/');
+  await page.goto('https://www.Flipkart.com/');
 });
