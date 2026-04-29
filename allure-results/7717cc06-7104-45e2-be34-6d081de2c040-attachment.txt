@@ -1,0 +1,10 @@
+[
+  'Tiger Nixon',
+  'System Architect',
+  'Edinburgh',
+  '61',
+  '2011/04/25',
+  '$320,800'
+]
+[ 'Edinburgh' ]
+66
